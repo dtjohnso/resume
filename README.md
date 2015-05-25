@@ -2,6 +2,18 @@
 
 My resume/CV. I began with a template (attribution below) and made some changes to it to suit my purposes. For more information about my work, see [my website](http://duncanjohnson.ca/).
 
+## Contacting Me
+
+Email: duncan@duncanjohnson.ca
+
+Postal address:
+
+PO Box 92117  
+Meadowbrook RPO  
+Edmonton, AB T6T 1N1  
+Canada
+
+
 ## LaTeX Template
 
 Version 1.1 (20/7/14)  
