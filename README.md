@@ -13,6 +13,7 @@ Meadowbrook RPO
 Edmonton, AB T6T 1N1  
 Canada
 
+Other means of communication listed in the resume file.
 
 ## LaTeX Template
 
