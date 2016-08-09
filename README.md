@@ -1,6 +1,6 @@
 # Duncan Johnson Resume/CV
 
-My resume/CV. I began with a template (attribution below) and made some changes to it to suit my purposes. For more information about my work, see [my website](http://duncanjohnson.ca/).
+Repository for my resume/CV ([PDF](resume.pdf)). I began with a template (attribution below) and made some changes to it to suit my purposes. For more information about my work, see [my website](http://duncanjohnson.ca/).
 
 ## Contacting Me
 
