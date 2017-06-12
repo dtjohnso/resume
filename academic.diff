@@ -1,0 +1,17 @@
+--- C:\Users\djohnson.DUNCANS-T430\Github\resume\resume-academic.tex
++++ C:\Users\djohnson.DUNCANS-T430\Github\resume\resume-academic-secular.tex
+@@ -32,12 +32,10 @@
+ % http://www.latex-community.org/forum/viewtopic.php?f=5&t=2060
+ 
+ \input{sections/name} \myRule
+-\input{sections/summary-academic} \myRule %academic-emphasis summary
++\input{sections/summary-academic-secular} \myRule
+ \input{sections/education} \myRule
+ \input{sections/experience} \myRule
++\input{sections/projects-secular} \myRule
+ \input{sections/teaching} \myRule
+-\input{sections/projects} \myRule
+-\input{sections/memberships} \myRule
+-\input{sections/community-service} %\myRule
+ 
+ \end{document}
