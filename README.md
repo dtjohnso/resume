@@ -8,10 +8,8 @@ Email: duncan@duncanjohnson.ca
 
 Postal address:
 
-PO Box 92117  
-Meadowbrook RPO  
-Edmonton, AB T6T 1N1  
-Canada
+100 Ketch Point Ct
+Rocky Mount, NC 27803
 
 Other means of communication listed in the resume file.
 
